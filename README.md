@@ -2,8 +2,6 @@ The tools in this website
 - Html
 - Css
 - javascript
-- PHP
-- MySQL
 
 Some Pics:
 ![1](https://github.com/user-attachments/assets/05c35269-b1e8-4783-8009-a54ccda05ab1)
