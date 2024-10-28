@@ -1,7 +1,7 @@
 <img align="center">![Essam Felemban](https://user-images.githubusercontent.com/67069594/170029686-66f6d532-2c14-4d8b-9253-ea0b12e8ceb1.png)</img>
 
 <h1 align="center">Hi 👋, I'm Essam Felemban</h1>
-<h3 align="center">I'm Computer Science Student and developer.</h3>
+<h3 align="center">I'm Computer Science and developer.</h3>
 
  🔭 I'm currently working on **Web Devolving**
  
